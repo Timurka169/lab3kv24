@@ -1,4 +1,9 @@
 # Project exclude paths
 /target/
 /target/dummy/
-.idea
+
+.idea/
+
+.target/
+
+.out
